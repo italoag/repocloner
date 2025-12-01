@@ -3,7 +3,7 @@
 > 🚀 A high-performance, concurrent GitHub and Bitbucket repository cloner built with Go
 
 [![CI](https://github.com/italoag/repocloner/workflows/CI/badge.svg)](https://github.com/italoag/repocloner/actions)
-[![Go Report Card](https://goreportcard.com/badge/github.com/italoag/repoclonerr)](https://goreportcard.com/report/github.com/italoag/repoclonerr)
+[![Go Report Card](https://goreportcard.com/badge/github.com/italoag/repocloner)](https://goreportcard.com/report/github.com/italoag/repocloner)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Go Version](https://img.shields.io/badge/Go-1.24.3+-blue.svg)](https://golang.org)
 
